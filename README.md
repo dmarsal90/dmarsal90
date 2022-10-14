@@ -1,1 +1,1 @@
-# Hi! My name is David Marsal, a Web Developer 💻
+# Hi! My name is David, I'm a Web Developer 💻
