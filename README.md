@@ -32,6 +32,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarsal90&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dmarsal90" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=dracula&title_color=000000&locale=en" alt="dmarsal90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&" alt="dmarsal90" /></p>
