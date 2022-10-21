@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
-- 💬 Ask me about **PHP,Symfony,Laravel,Java,HTML,CSS**
+- 💬 Ask me about **PHP,Symfony,Laravel,Java,JavaScript,HTML,CSS**
 
 - 📫 How to reach me: **davidmarsalivars@gmail.com**
 
