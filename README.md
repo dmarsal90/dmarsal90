@@ -22,7 +22,9 @@
 </p>
 <h3 align="left">My Stack:</h3>
 
-![stack-hills](C:\Users\David\Desktop\dmarsal90\dmarsal90\assets\stack-hills.png)
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/stack-hills.png" alt="stacks"/>
+</h3>
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
