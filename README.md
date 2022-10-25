@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmarsal90" alt="dmarsal90" /></a> </p>
 
+<div class="pull-left">
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Udemy courses about Backend development Roadmap and DevOps**
@@ -14,6 +15,14 @@
 - 💬 Ask me about **PHP,Symfony,Laravel,Java,JavaScript,HTML,CSS**
 
 - 📫 How to reach me: **davidmarsalivars@gmail.com**
+
+</div>
+<div class="pull-right">
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/coding.gif" alt="coding"/>
+</h3>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
