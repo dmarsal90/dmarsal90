@@ -43,3 +43,5 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=slateorange&title_color=000000&locale=en" alt="dmarsal90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&" alt="dmarsal90" /></p>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
