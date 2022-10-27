@@ -37,9 +37,9 @@
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarsal90&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dmarsal90" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarsal90&show_icons=true&theme=slateorange&locale=en&layout=compact" alt="dmarsal90" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=merko&title_color=000000&locale=en" alt="dmarsal90" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=slateorange&title_color=000000&locale=en" alt="dmarsal90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&" alt="dmarsal90" /></p>
