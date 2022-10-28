@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmarsal90&label=Profile%20views&color=0e75b6&style=plastic" alt="dmarsal90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmarsal90" alt="dmarsal90" /></a> </p>
+<div align="center">
+  <a href="https://github.com/dmarsal90">
+  <img src="https://komarev.com/ghpvc/?username=dmarsal90&label=Profile%20views&color=0e75b6&style=plastic" alt="dmarsal90" />  
+</div>
+<p align="left">  </p>
+<div align="center">
+  <a href="https://github.com/dmarsal90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=algolia&border_radius=20&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=algolia&border_radius=20"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=algolia&border_radius=20" alt="dmarsal90" /></p>
+</div>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <div class="pull-left">
 - 🔭 I’m currently working on **my portfolio**
@@ -12,23 +21,18 @@
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
-- 💬 Ask me about **PHP,Symfony,Laravel,Java,JavaScript,HTML,CSS**
+- 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me: **davidmarsalivars@gmail.com**
-
+- 📫 How to reach me:  
+<div align="left">
+  
+  <a href = "mailto:davidmarsalivars@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davidmarsalivars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="davidmarsalivars"/></a>
+   
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
-<div class="pull-right">
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/coding.gif" alt="coding"/>
-</h3>
-</div>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davidmarsalivars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidmarsalivars" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidmarsalivars" height="30" width="40" /></a>
-</p>
 <h3 align="left">My Stack:</h3>
 
 <h3 align="center">
@@ -36,12 +40,3 @@
 </h3>
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarsal90&show_icons=true&theme=slateorange&locale=en&layout=compact" alt="dmarsal90" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=slateorange&title_color=000000&locale=en" alt="dmarsal90" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&" alt="dmarsal90" /></p>
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
