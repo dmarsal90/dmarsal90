@@ -31,7 +31,7 @@
   <a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="davidmarsalivars"/></a>
    
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
 </div>
 <h3 align="left">My Stack:</h3>
 
