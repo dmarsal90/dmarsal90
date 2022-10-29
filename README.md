@@ -15,13 +15,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <div class="pull-left">
-- 🔭 I’m currently working on **my portfolio**
+
+- 🔭 I’m currently working on backend projects
 
 - 🌱 I’m currently learning **Udemy courses about Backend development Roadmap and DevOps**
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
 - 💬 Ask me about anything, I am happy to help
+
+- :scroll: My CV: <a href="https://mnf.red/davidmarsalivars" target="blank">Manfred CV</a>
 
 - 📫 How to reach me:  
 <div align="left">
