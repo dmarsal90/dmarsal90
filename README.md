@@ -24,8 +24,6 @@
 
 - 💬 Ask me about anything, I am happy to help
 
-- :scroll: My CV: <a href="https://mnf.red/davidmarsalivars" target="_blank">See CV</a>
-
 - 📫 How to reach me:  
 <div align="left">
   
