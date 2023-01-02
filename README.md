@@ -35,6 +35,9 @@
   
 </div>
   
+ <!-- [![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=dmarsal90&theme=xcode)](https://github.com/dmarsal90)-->
+
+  
 <div align="left">
 <details>
   <summary>:zap: Github Trophies</summary>
