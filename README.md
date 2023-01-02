@@ -32,18 +32,18 @@
   <a href = "mailto:davidmarsalivars@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/davidmarsalivars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="davidmarsalivars"/></a>
+    
+   ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
   
+</div>
   
-
+<div align="left">
 <details>
   <summary>:zap: Github Trophies</summary>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dmarsal90&theme=onedark)](https://github.com/dmarsal90/github-profile-trophy)
-   
-  
-   ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
 <h3 align="left">My Stack:</h3>
 
 <h3 align="center">
