@@ -15,6 +15,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <div class="pull-left">
+  <details>
+  <summary>:slightly_smiling_face: More about me</summary>
 
 - 🔭 I’m currently working on backend projects
 
@@ -30,20 +32,24 @@
   <a href = "mailto:davidmarsalivars@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/davidmarsalivars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="davidmarsalivars"/></a>
+  </details>
     
    ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  [![David's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dmarsal90&theme=react-dark)](https://github.com/dmarsal90/github-readme-activity-graph)
   
  <!-- [![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=dmarsal90&theme=xcode)](https://github.com/dmarsal90)-->
 
   
 <div align="left">
 <details>
-  <summary>:zap: Github Trophies</summary>
+  <summary>:trophy: Github Trophies</summary>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dmarsal90&theme=onedark)](https://github.com/dmarsal90/github-profile-trophy)
 </div>
+  </details>
 
 <h3 align="left">My Stack:</h3>
 
