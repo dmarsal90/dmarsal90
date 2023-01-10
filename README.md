@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on backend projects
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **Astro**
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
