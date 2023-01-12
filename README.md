@@ -16,7 +16,7 @@
  
  :slightly_smiling_face: About me
 
-- 🔭 I’m currently working on backend projects
+- 🔭 I’m currently working on backend projects.
 
 - 🌱 I’m currently learning **ReactJS** and **Astro**
 
