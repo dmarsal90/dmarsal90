@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me:  
 <div align="left">
