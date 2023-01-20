@@ -33,21 +33,25 @@
   <a href="https://www.linkedin.com/in/davidmarsalivars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.hackerrank.com/davidmarsalivars" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="davidmarsalivars"/></a>
   
-    
 <p align="left">
-<div align="center">
+<div align="center">  
   <a href="https://github.com/dmarsal90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=react&border_radius=20"/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p>
-</div>
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dmarsal90/langs)](https://githubtrends.io)
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div>
+
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p> 
 
 
    ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
-      
+  
+  <div style="text-align: center;">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmarsal90&theme=github_dark)
+
+</div>
+       
 </div>
   
   [![David's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dmarsal90&theme=react-dark)](https://github.com/dmarsal90/github-readme-activity-graph)
@@ -77,4 +81,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
     *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* <br>
     Thanks for visiting :heart:
    </div>
+    
+    
   
