@@ -40,6 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=react&border_radius=20"/>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div>
 
+
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p> 
 
@@ -49,6 +50,7 @@
   <div style="text-align: center;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmarsal90&theme=github_dark)
+    
 
 </div>
        
