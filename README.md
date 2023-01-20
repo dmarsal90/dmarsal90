@@ -37,9 +37,9 @@
 <p align="left">
 <div align="center">
   <a href="https://github.com/dmarsal90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=codeSTACKr&border_radius=20&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=codeSTACKr&border_radius=20"/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=codeSTACKr&border_radius=20" alt="dmarsal90" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=great-gatsby&border_radius=20"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=great-gatsby&border_radius=20" alt="dmarsal90" /></p>
 </div>
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dmarsal90/langs)](https://githubtrends.io)
   
