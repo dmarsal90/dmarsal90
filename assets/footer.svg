@@ -1,86 +1,23 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<style>
-svg {
-  width: 100%;
-  position: fixed;
-  top: -1px;
-  transform: rotate(360deg);
-  overflow:visible;
-}
-.wave {
-    animation: wave 5s linear;
-    animation-iteration-count: infinite;  
-}
-#wave2 {
-  animation-duration: 10s;
-  animation-direction: reverse;
-  opacity: .9;
-}
-#wave3 {
-  animation-duration: 5s;
-  opacity:.6;
-}
-@keyframes wave {
-  0% {
-        fill: #FF0000 ;
-        transform: translateX(-0%);
-      }
-  10% {
-        fill: #FF8700 ;
-        transform: translateX(-10%);
-      }
-  20% {
-        fill: #FFD300 ;
-        transform: translateX(-20%);
-      }
-  30% {
-        fill: #DEFF0A ;
-        transform: translateX(-30%);
-      }
-  40% {
-        fill: #A1FF0A ;
-        transform: translateX(-40%);
-      }
-  50% {
-        fill: #0AFF99 ;
-        transform: translateX(-50%);
-      }
-  60% {
-        fill: #0AEFFF ;
-        transform: translateX(-60%);
-      }
-  70% {
-        fill: #147DF5 ;
-        transform: translateX(-70%);
-      }
-  80%{
-        fill: #580AFF ;
-        transform: translateX(-80%);
-      }
-  90%{
-        fill: #BE0AFF;
-        transform: translateX(-90%);
-      }
-  100%{
-        fill: #FF0000 ;
-        transform: translateX(-100%);
-      }
-    }
-}
-</style>
-
-<defs> 
-  <filter id="anim">
-    <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-    <feColorMatrix in="blur" mode="matrix" values="
-          1 0 0 0 0  
-          0 1 0 0 0  
-          0 0 1 0 0  
-          0 0 0 13 -9" result="anim" />
-    <xfeBlend in="SourceGraphic" in2="anim" />
-  </filter>
-  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-</defs> 
-<use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
-<use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-</svg>
+<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 390" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
+          .path-0{
+            animation:pathAnim-0 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-0{
+            0%{
+              d: path("M 0,400 C 0,400 0,200 0,200 C 146.8,225.60000000000002 293.6,251.20000000000002 461,250 C 628.4,248.79999999999998 816.4000000000001,220.8 983,208 C 1149.6,195.2 1294.8,197.6 1440,200 C 1440,200 1440,400 1440,400 Z");
+            }
+            25%{
+              d: path("M 0,400 C 0,400 0,200 0,200 C 117.73333333333335,221.2 235.4666666666667,242.4 392,234 C 548.5333333333333,225.6 743.8666666666666,187.6 925,177 C 1106.1333333333334,166.4 1273.0666666666666,183.2 1440,200 C 1440,200 1440,400 1440,400 Z");
+            }
+            50%{
+              d: path("M 0,400 C 0,400 0,200 0,200 C 188.40000000000003,176 376.80000000000007,152 555,168 C 733.1999999999999,184 901.2,240 1047,252 C 1192.8,264 1316.4,232 1440,200 C 1440,200 1440,400 1440,400 Z");
+            }
+            75%{
+              d: path("M 0,400 C 0,400 0,200 0,200 C 129.73333333333335,229.86666666666667 259.4666666666667,259.73333333333335 416,245 C 572.5333333333333,230.26666666666668 755.8666666666666,170.93333333333334 931,156 C 1106.1333333333334,141.06666666666666 1273.0666666666666,170.53333333333333 1440,200 C 1440,200 1440,400 1440,400 Z");
+            }
+            100%{
+              d: path("M 0,400 C 0,400 0,200 0,200 C 146.8,225.60000000000002 293.6,251.20000000000002 461,250 C 628.4,248.79999999999998 816.4000000000001,220.8 983,208 C 1149.6,195.2 1294.8,197.6 1440,200 C 1440,200 1440,400 1440,400 Z");
+            }
+          }</style><defs><linearGradient id="gradient" x1="100%" y1="46%" x2="0%" y2="54%"><stop offset="5%" stop-color="#0693e3"></stop><stop offset="95%" stop-color="#7bdcb5"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 146.8,225.60000000000002 293.6,251.20000000000002 461,250 C 628.4,248.79999999999998 816.4000000000001,220.8 983,208 C 1149.6,195.2 1294.8,197.6 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 200)"></path></svg>
