@@ -93,5 +93,4 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/github-wrapped.png" alt="stacks"/>
 
-<br/>
-<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/footer.svg" alt="footer"/>
+
