@@ -39,18 +39,20 @@
   <a href="https://github.com/dmarsal90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=react&border_radius=20"/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-  <div align="center">  
-  ![My user statistics](images/userstats.svg)
-</div>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div> 
+    
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p> 
+ 
 
    ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
   
+   ![My user statistics](images/userstats.svg)
+  
   <div style="text-align: center;">
+    
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmarsal90&theme=github_dark)
+    
 
 </div>
 
@@ -62,6 +64,7 @@
   
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+  
 <div align="left">
 <details>
   <summary>:trophy: Github Trophies</summary>
