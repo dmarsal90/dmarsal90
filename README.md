@@ -87,11 +87,9 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   <div align="center">
     *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* <br>
     Thanks for visiting :heart:
-   </div>
+   </div> 
 
-  
 
-<img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/github-wrapped.png" alt="stacks"/>
 
 <img src="https://raw.githubusercontent.com/dmarsal90/dmarsal90/main/assets/footer.svg" alt="footer"/>
 
