@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on backend projects
 
-- 🌱 I’m currently learning **ReactJS** and **Astro**
+- 🌱 I’m currently learning **ReactJS** and **Qwik**
 
 - 👯 I’m looking to collaborate on **laravel community**
 
