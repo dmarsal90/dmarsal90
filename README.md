@@ -12,7 +12,7 @@
     <a href="https://github.com/dmarsal90/dmarsal90"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/dmarsal90/dmarsal90/graphs/contributors"><img src="https://img.shields.io/github/contributors/dmarsal90/dmarsal90?color=red"></a>
     <a href="https://github.com/dmarsal90/dmarsal90/stargazers"><img src="https://img.shields.io/github/stars/dmarsal90/dmarsal90.svg?color=yellow&logo=github"></a>
-    <a href="https://github.com/dmarsal90/dmarsal90/network/members"><img src="https://img.shields.io/github/forks/dmarsal90/dmarsal90.svg?color=orange&logo=github">
+  <!--  <a href="https://github.com/dmarsal90/dmarsal90/network/members"><img src="https://img.shields.io/github/forks/dmarsal90/dmarsal90.svg?color=orange&logo=github">-->
   </a>
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dmarsal90/dmarsal90/profile-3d.yml?color=green">
 </div>
