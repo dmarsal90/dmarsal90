@@ -19,6 +19,6 @@
   
   <div class="pull-left">
 
- :slightly_smiling_face: About me
+ :slightly_smiling_face: About me.
 
 - 🔭 I’m currently 
