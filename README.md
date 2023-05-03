@@ -25,7 +25,7 @@
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about **PHP,Symfony,Laravel,Java,JavaScript,HTML,CSS,React,Vue**
 
 - 📫 How to reach me:  
 
