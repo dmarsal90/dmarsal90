@@ -1,0 +1,26 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Ejecuta la acción cada 2 horas
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Update stats and commit changes
+        run: |
+          python update_stats.py
+          git config --local user.email "YOUR_GITHUB_EMAIL"
+          git config --local user.name "YOUR_GITHUB_USERNAME"
+          git add .
+          git commit -m "Update profile stats"
+          git push origin HEAD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
