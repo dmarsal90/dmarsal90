@@ -17,8 +17,8 @@ jobs:
       - name: Update stats and commit changes
         run: |
           python update_stats.py
-          git config --local user.email "YOUR_GITHUB_EMAIL"
-          git config --local user.name "YOUR_GITHUB_USERNAME"
+          git config --local user.email "davidmarsalivars@gmail.com"
+          git config --local user.name "dmarsal90"
           git add .
           git commit -m "Update profile stats"
           git push origin HEAD
