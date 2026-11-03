@@ -48,6 +48,14 @@
    ![Snake animation](https://github.com/dmarsal90/dmarsal90/blob/output/github-contribution-grid-snake.svg)
   
    ![My user statistics](images/userstats.svg)
+
+<div align="center">
+
+<!-- STATS:START -->
+**53** public repos · **21** stars · **54** followers · **2300** public commits
+<!-- STATS:END -->
+
+</div>
   
   <div style="text-align: center;">
     
