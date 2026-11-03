@@ -2,25 +2,26 @@ name: Update profile stats
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Ejecuta la acción cada 2 horas
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Install Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      - name: Update stats and commit changes
-        run: |
-          python update_stats.py
-          git config --local user.email "davidmarsalivars@gmail.com"
-          git config --local user.name "dmarsal90"
-          git add .
-          git commit -m "Update profile stats"
-          git push origin HEAD
+      - uses: actions/checkout@v5
+      - name: Update stats
+        run: python3 update_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -m "chore: update profile stats" README.md
+          git pull --rebase
+          git push

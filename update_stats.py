@@ -1,36 +1,45 @@
-import requests
+"""Rewrite the block between the STATS markers in README.md with public GitHub totals."""
 import json
+import os
+import re
+import urllib.request
 
-# Hacemos una solicitud GET a la API de GitHub para obtener información de nuestro usuario
-response = requests.get('https://api.github.com/users/dmarsal90/repos')
+USER = "dmarsal90"
+API = "https://api.github.com"
 
-# Convertimos la respuesta a un objeto JSON
-data = response.json()
 
-# Obtenemos el número total de repositorios
-num_repos = len(data)
+def get(path):
+    req = urllib.request.Request(API + path, headers={
+        "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
+        "Accept": "application/vnd.github+json",
+    })
+    with urllib.request.urlopen(req, timeout=30) as res:
+        return json.load(res)
 
-# Inicializamos las variables para contar los commits y push
-num_commits = 0
-num_push = 0
 
-# Recorremos todos los repositorios y contamos los commits y push
-for repo in data:
-    # Hacemos una solicitud GET a la API de GitHub para obtener información sobre los commits del repositorio
-    commits_response = requests.get(f"https://api.github.com/repos/dmarsal90/{repo['name']}/commits")
+user = get(f"/users/{USER}")
+repos, page = [], 1
+while True:
+    chunk = get(f"/users/{USER}/repos?per_page=100&page={page}&type=owner")
+    repos += chunk
+    if len(chunk) < 100:
+        break
+    page += 1
+commits = get(f"/search/commits?q=author:{USER}&per_page=1")["total_count"]
 
-    # Convertimos la respuesta a un objeto JSON
-    commits_data = commits_response.json()
+block = (
+    "<!-- STATS:START -->\n"
+    f"**{user['public_repos']}** public repos · "
+    f"**{sum(r['stargazers_count'] for r in repos)}** stars · "
+    f"**{user['followers']}** followers · "
+    f"**{commits}** public commits\n"
+    "<!-- STATS:END -->"
+)
 
-    # Añadimos el número de commits al total
-    num_commits += len(commits_data)
-
-    # Recorremos todos los commits y contamos los push
-    for commit in commits_data:
-        if 'pushed_at' in commit['commit']['author']:
-            num_push += 1
-
-# Imprimimos las estadísticas para verificar que se hayan obtenido correctamente
-print(f"Number of public repositories: {num_repos}")
-print(f"Number of commits: {num_commits}")
-print(f"Number of pushes: {num_push}")
+with open("README.md", encoding="utf-8") as f:
+    text = f.read()
+new, n = re.subn(r"<!-- STATS:START -->.*?<!-- STATS:END -->", lambda _: block, text, flags=re.S)
+if n != 1:
+    raise SystemExit("README.md needs exactly one STATS:START/STATS:END block")
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new)
