@@ -21,11 +21,13 @@
 
  :slightly_smiling_face: About me
 
-- 🔭 I’m currently working on backend projects.
+- 🔭 Full stack developer at **Meganet** (Laravel + Vue): talent module, network map and VoIP module, and a mobile app on the same backend. Also freelance on PHP back-end projects.
 
-- 👯 I’m looking to collaborate on **back-end or full stack web apps**
+- 🛠️ Building **ZipWarden**, a safe ZIP reading and extraction library against zip slip and zip bombs: [PHP](https://github.com/dmarsal90/zipwarden-php) (Laravel and Symfony) and [JavaScript](https://github.com/dmarsal90/zipwarden-js).
 
-- 💬 Ask me about **PHP,Symfony,Laravel,Java,JavaScript,HTML,CSS,React,Vue**
+- 👯 Open to **remote or hybrid** work (Madrid) and freelance projects: REST APIs, admin panels and custom apps.
+
+- 💬 Ask me about **PHP, Laravel, Symfony, Vue, React, JavaScript, REST APIs**
 
 - 📫 How to reach me:  
 
@@ -72,13 +74,6 @@
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-<div align="left">
-<details>
-  <summary>:trophy: Github Trophies</summary>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dmarsal90&theme=onedark)](https://github.com/dmarsal90/github-profile-trophy)
-</div>
-  </details>
 
 <h3 align="left">My Stack:</h3>
 
