@@ -38,6 +38,8 @@
 <p align="left">
 <div align="center">  
   <a href="https://github.com/dmarsal90">
+  <img height="180em" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img height="180em" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div> 
     
  
