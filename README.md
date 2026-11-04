@@ -72,13 +72,6 @@
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-<div align="left">
-<details>
-  <summary>:trophy: Github Trophies</summary>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dmarsal90&theme=onedark)](https://github.com/dmarsal90/github-profile-trophy)
-</div>
-  </details>
 
 <h3 align="left">My Stack:</h3>
 
