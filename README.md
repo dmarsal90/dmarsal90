@@ -21,7 +21,7 @@
 
  :slightly_smiling_face: About me
 
-- 🔭 I’m currently working on backend projects.
+- 🔭 I’m currently working on full stack projects.
 
 - 👯 I’m looking to collaborate on **back-end or full stack web apps**
 
