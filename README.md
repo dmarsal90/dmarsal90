@@ -51,7 +51,7 @@
 <div align="center">
 
 <!-- STATS:START -->
-**59** public repos · **21** stars · **53** followers · **2014** public commits
+**59** public repos · **21** stars · **53** followers · **2001** public commits
 <!-- STATS:END -->
 
 </div>
